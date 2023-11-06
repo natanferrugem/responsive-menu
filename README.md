@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github.png">
+  <img src="./assets/menu responsivo(header).png">
 </p>
 
 <br>
