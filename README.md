@@ -22,6 +22,4 @@
 
 This project was developed with these technologies:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
+- 100% HTML
