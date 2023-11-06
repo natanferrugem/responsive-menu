@@ -1,6 +1,6 @@
 ### responsive-menu 💻
 <p align="center">
-  <p>PROJECT DONE</p>
+ - PROJECT DONE
   <a href="https://natanferrugem.github.io/responsive-menu" target="_blank"> here! </a>
 </p>
   
